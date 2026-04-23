@@ -1,17 +1,27 @@
 # Catalogo Piatti
 
 ## Antipasti
-* Bruschetta
-* Caprese
+* Bruschetta al Pomodoro
+* Caprese con Bufala
+* Carpaccio di Manzo
 
 ## Primi
-* Carbonara
+* Carbonara Tradizionale
 * Amatriciana
+* Cacio e Pepe
+* Risotto ai Funghi
 
 ## Secondi
-* Cotoletta
-* Pesce Spada
+* Cotoletta alla Milanese
+* Pesce Spada alla Griglia
+* Ossobuco alla Milanese
 
 ## Dolci
-* Tiramisù
+* Tiramisu'
 * Panna Cotta
+* Cannolo Siciliano
+
+## Piatti Speciali dello Chef
+* Ravioli di Ricotta e Spinaci
+* Filetto al Pepe Verde
+* Souffle' al Cioccolato
