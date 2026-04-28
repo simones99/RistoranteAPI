@@ -1,27 +1,18 @@
 # Catalogo Piatti
 
 ## Antipasti
-* Bruschetta al Pomodoro
-* Caprese con Bufala
-* Carpaccio di Manzo
+* Bruschetta
+* Caprese
 
 ## Primi
-* Carbonara Tradizionale
+* Carbonara
 * Amatriciana
-* Cacio e Pepe
-* Risotto ai Funghi
 
 ## Secondi
-* Cotoletta alla Milanese
-* Pesce Spada alla Griglia
-* Ossobuco alla Milanese
+* Cotoletta
+* Pesce Spada
 
 ## Dolci
 * Tiramisu'
 * Panna Cotta
-* Cannolo Siciliano
-
-## Piatti Speciali dello Chef
-* Ravioli di Ricotta e Spinaci
-* Filetto al Pepe Verde
-* Souffle' al Cioccolato
+* Cannolo Siciliano - PREZZO ERRATO 500 EUR
